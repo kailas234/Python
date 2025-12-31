@@ -1,4 +1,4 @@
-reciept='''
+reciept='''      My Book Store
 The customer bought 2 items:
 Book Title: {0} – {1}
 Book Title: {2} – {3}
