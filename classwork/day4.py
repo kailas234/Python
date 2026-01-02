@@ -17,6 +17,7 @@ print(fruitlen)
 
 print('water' in beverages)
 
-tuple=[]
-tuple.extend([fruits[0],vegetables[0],beverages[0]])
-print(tuple)
+tuple_name=[]
+tuple_name.extend([fruits[0],vegetables[0],beverages[0]])
+tuple_name=tuple(tuple_name)
+print(tuple_name)
